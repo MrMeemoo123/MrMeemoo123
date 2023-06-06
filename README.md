@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrMeemoo123
 - 👀 I’m interested in Unreal Engine
-- 🌱 I’m currently learning how to make a game engine
+- 🌱 I’m currently learning how to make a survival game
 - 💞️ I’m looking to collaborate on a game engine
 - 📫 How to reach me: (Not public, Sorry!)
 
